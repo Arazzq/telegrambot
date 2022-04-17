@@ -67,7 +67,7 @@ while True:
                 c.start(number)
                 print(f'{lg}[+] Giriş başarılı')
                 c.disconnect()
-            input(f'\n Ana menüye gitmek için enter'a basın...')
+            input(f'\n Ana menüye gitmek için enter a basın...')
 
         g.close()
     elif a == 2:
